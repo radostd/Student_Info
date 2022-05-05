@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1639769110 source:c:\users\rados\documents\codeblocks\cw\main.cpp
+	<iostream>
+	<ctime>
+	<fstream>
+	<algorithm>
+	<string>
+
